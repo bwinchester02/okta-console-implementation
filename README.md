@@ -1,7 +1,6 @@
 # okta-console-implementation
 Simple console application for verification of Okta credentials and changing of password.
 
-# twitter-statistics
 1. You will need at least .NET 6.0.401 installed (https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 2. You will need to get your SSWS token for the Okta API
 3. Add said SSWS token to appsettings.json under the OktaConfiguration.APIToken property.
