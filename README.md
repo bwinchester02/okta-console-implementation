@@ -8,4 +8,4 @@ Simple console application for verification of Okta credentials and changing of 
 
 There are currently 2 supported actions
 1. Verifying credentials - Follow the prompts and enter your username/password
-2. Changign credentials = Follow the prompts and enter your username/current password/new password
+2. Changign credentials - Follow the prompts and enter your username/current password/new password
